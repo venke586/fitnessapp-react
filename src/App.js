@@ -12,6 +12,7 @@ function App() {
    <>
    <BrowserRouter>
    <Routes>
+    {/* this is routing section */}
     <Route path="/" element={<Home/>} />
     <Route path="/dashbord" element={logingAuth?<Dashbord/>:<Home/>} />
     <Route path="/login" element={logingAuth?<Dashbord />: <Login />} />
