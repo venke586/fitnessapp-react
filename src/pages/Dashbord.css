@@ -1,0 +1,30 @@
+.innerpagebanner{
+    height:300px;
+    justify-content: center;
+    align-items: baseline;
+    position: relative;
+    background:url(../assets/images/innersection.webp);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.inneroverlay{background-color:#000; opacity: 0.7; position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+.iconbox{
+    border: solid 1px #e3e3e3;
+    text-align: center;
+    margin: 1rem 0; border-radius:25px; 
+}
+.iconbox.active{background-color: #ffeece;}
+.iconbox:hover{background-color: #e3e3e3;}
+.iconbox a{ display: block; padding: 1rem; color: #000; font-weight: 600; text-align: center; text-decoration: none; font-size: 0.9rem; }
+.iconbox a .iconstyle{display: block;
+    font-size:2rem;
+    margin: 0 auto;
+    margin-bottom: 1rem;}
+.inputFiled{
+    border: none;
+    background: #f2f2f2;
+    padding: 9px;
+    border-bottom: 1px solid #cdcccc;
+    border-radius: 0px 0px 10px 10px 
+}

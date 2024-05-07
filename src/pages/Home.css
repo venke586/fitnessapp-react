@@ -1,0 +1,74 @@
+
+p{color: #000; font-size: 1.1rem;}
+img{ display:block; max-width:100%;}
+h2, h3{text-transform: uppercase;}
+.bannersection{
+    height: 100vh;
+    justify-content: center;
+    align-items: baseline;
+    position: relative;
+    background:url(../assets/images/slide-4-free-img.jpg);
+    background-position:top center;
+    background-repeat: no-repeat;
+}
+.line {
+    width: 70px;
+    height:1px;
+    background-color: #b8ac00;
+    margin: 1rem 0;
+}
+.lineTwo {
+    width: 70px;
+    height:1px;
+    background-color: #f8ec37;
+    margin: 1rem 0;
+}
+.bgoverlay{background-color:#000; opacity: 0.7; position:absolute; top: 0; left: 0; width: 100%; height: 100%;}
+.bannersection h1{
+    margin: 0px;
+    margin-bottom: 20px;
+    padding: 0px;
+    color: #fff;
+    font-family: fantasy;
+    font-size:3rem;
+}
+.ourprograms_sec{
+    position: relative;
+    padding:0rem;
+    background: url(../assets//images/barbell-on-the-floor.jpg) no-repeat center center;
+    background-size:cover;
+}
+.ourprograms_sec .bgoverlayTwo{background-color:#000; opacity: 0.7; top: 0; left: 0; width: 100%; height: 100%;}
+.ourprograms_sec h2{
+        margin:0px;
+        margin-top:3rem;
+        padding: 0px;
+        color: #fff;
+}
+.ourprograms_sec p{color: #fff;}
+.ourprograms_sec .iconbox{
+    display: flex;
+    margin: 1.5rem 0;
+}
+.ourprograms_sec .iconbox img{
+    width: 70px;
+    margin-right: 30px;
+}
+.ourprograms_sec .iconbox p{ font-size: 1.3rem;}
+.ourprograms_sec .rightimg{
+    margin-top: 3rem;
+    background: url(../assets/images/yellow_ring_bg-removebg.png) no-repeat;
+}
+.planssection{
+    position: relative;
+    margin:2rem;
+}
+.planssection .planbox {
+    padding: 2rem 1rem;
+    background-color: #1A1A1A;
+    border-radius: 39px 0;
+}
+.planssection .planbox h3{ font-size:1.5rem; color: #f6ed27;}
+.planssection .planbox p{color:#fff; font-weight: 300;}
+.planssection .planbox p span{font-weight: 600;}
+.planssection .planbox h4{ font-size:1.2rem; color: #fff;}

@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "name": "venkat",
+      "email": "venke@gmail.com",
+      "phone": "7219104586",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "phone": "7899878983",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "raju",
+      "email": "venke@gmail.com",
+      "phone": "7344567890",
+      "password": "12345",
+      "id": 3
+    }
+  ],
+  "measurements": [
+    {
+      "name": "venke@gmail.com",
+      "weight": "70",
+      "date": "9/1/2024",
+      "chest": "40",
+      "stomach": "50",
+      "arm": "20",
+      "waist": "50",
+      "thigh": "20",
+      "buttock": "30",
+      "dietdetails": "test",
+      "illnessdetails": "test",
+      "compareddetails": "test",
+      "id": 1
+    },
+    {
+      "name": "venke@gmail.com",
+      "weight": "70",
+      "date": "9/1/2024",
+      "chest": "",
+      "stomach": "",
+      "arm": "",
+      "waist": "",
+      "thigh": "",
+      "buttock": "",
+      "dietdetails": "",
+      "illnessdetails": "",
+      "compareddetails": "",
+      "id": 2
+    },
+    {
+      "name": "venke@gmail.com",
+      "weight": "68",
+      "date": "9/1/2024",
+      "chest": "40",
+      "stomach": "44",
+      "arm": "44",
+      "waist": "20",
+      "thigh": "23",
+      "buttock": "20",
+      "dietdetails": "test",
+      "illnessdetails": "test",
+      "compareddetails": "test",
+      "id": 3
+    },
+    {
+      "name": "venke@gmail.com",
+      "weight": "65",
+      "date": "10/1/2024",
+      "chest": "55",
+      "stomach": "35",
+      "arm": "34",
+      "waist": "24",
+      "thigh": "45",
+      "buttock": "34",
+      "dietdetails": "test",
+      "illnessdetails": "test",
+      "compareddetails": "test",
+      "id": 4
+    }
+  ],
+  "enquiries": [
+    {
+      "firstname": "test",
+      "lastname": "test",
+      "email": "venke@gmail.com",
+      "mobaile": "7654334567",
+      "message": "tezt",
+      "id": 1
+    },
+    {
+      "firstname": "test2",
+      "lastname": "test2",
+      "email": "venke333@gmail.com",
+      "mobaile": "7654334567",
+      "message": "tezt",
+      "id": 2
+    },
+    {
+      "firstname": "teste",
+      "lastname": "fsdfdsaf",
+      "email": "venke33@gmail.com",
+      "mobaile": "7654334567",
+      "message": "test",
+      "id": 3
+    },
+    {
+      "firstname": "teste44",
+      "lastname": "fsdfs44",
+      "email": "venke444@gmail.com",
+      "mobaile": "7654334567",
+      "message": "test",
+      "id": 4
+    },
+    {
+      "firstname": "testnew",
+      "lastname": "testnew",
+      "email": "testnew@gmail.com",
+      "mobaile": "7899878998",
+      "message": "test",
+      "id": 5
+    }
+  ]
+}

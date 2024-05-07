@@ -1,0 +1,24 @@
+.footersect{
+    margin: 0px;
+    padding:2rem 0;
+    background:#1A1A1A;
+}
+.footersect p{color:#fff; font-weight: 300; color: #a0a0a0;}
+.footersect .flogo{
+    display: block;
+    margin-bottom: 1rem;
+    width:15%;
+}
+.footersect .scoialicons{
+    display:inline-block;
+}
+.footersect .scoialicons a {
+    float: left;
+    width: 54px;
+}
+.footersect h3{color:#fff; margin-bottom: 1rem;}
+.footersect .scoialicons a img{ width: 65%; margin-right: 2rem; opacity: 0.6;}
+.footercopy{
+    background-color: #000;
+}
+.footercopy p{ padding:10px 0; color: #999; margin: 0px;}
